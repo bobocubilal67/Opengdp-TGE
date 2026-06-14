@@ -1,9 +1,3 @@
 {
-  "version": 2,
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/check-airdrop.js"
-    }
-  ]
+  "version": 2
 }
