@@ -2,12 +2,12 @@
   "version": 2,
   "routes": [
     {
-      "src": "/api/(.*)",
+      "src": "/(.*)",
       "headers": {
         "Access-Control-Allow-Origin": "*",
         "Access-Control-Allow-Headers": "Content-Type"
       },
-      "dest": "/api/$1"
+      "dest": "/check-airdrop.js"
     }
   ]
 }
