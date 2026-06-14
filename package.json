@@ -1,0 +1,5 @@
+{
+  "name": "opengdp-airdrop-api",
+  "version": "1.0.0",
+  "main": "api/check-airdrop.js"
+}
